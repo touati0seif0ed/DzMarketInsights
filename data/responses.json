@@ -1,0 +1,172 @@
+[
+  {
+    "id": "resp-user-mw3msl5l",
+    "timestamp": "2026-11-05T14:18:48.729Z",
+    "language": "ar",
+    "completionTimeSeconds": 240,
+    "answers": {
+      "q1_age": "25-34",
+      "q2_wilaya": "16",
+      "q3_residence_nature": "urban",
+      "q4_employment_status": "employee",
+      "q5_purchasing_power": "medium",
+      "q6_bought_used_furniture": "yes",
+      "q7_bought_used_appliance": "yes",
+      "q8_sold_used_items": "yes",
+      "q9_search_channels": [
+        "facebook_marketplace"
+      ],
+      "q10_products_considered": [
+        "living_room_sofas",
+        "refrigerators"
+      ],
+      "q11_primary_motivation": "low_price",
+      "q12_biggest_hesitation": "hidden_defects",
+      "q13_trust_builders": [
+        "video_real_photos",
+        "fair_inspection_label"
+      ],
+      "q14_expected_discount": "40_60",
+      "q15_concept_opinion": "excellent",
+      "q16_willingness_to_use": "definitely",
+      "q17_most_important_service": "verify_condition",
+      "q18_platform_model": "hybrid",
+      "q19_preferred_pickup": "home_delivery",
+      "q20_delivery_provider": "dedicated_furniture_movers",
+      "q21_delivery_fee_acceptance": "yes_reasonable",
+      "q22_acceptable_delivery_time": "24_48_hours",
+      "q23_payment_method": "baridimob",
+      "q24_had_past_problems": "no",
+      "q27_biggest_market_barrier": "lack_of_trust_scams",
+      "q28_fair_price_ratio": "50_percent",
+      "q29_wishlist_services": [
+        "technical_inspection",
+        "disassembly_assembly"
+      ],
+      "q30_seller_interest": "yes",
+      "q31_seller_incentives": [
+        "serious_buyers",
+        "guaranteed_payment"
+      ],
+      "q32_open_suggestion": "منصة ممتازة جداً ونحتاج مثل هذه الخدمات المتخصصة والموثوقة في الجزائر بالتوفيق!"
+    },
+    "wantsBetaAccess": false
+  },
+  {
+    "id": "resp-user-mw3mmd98",
+    "timestamp": "2026-11-05T14:13:58.556Z",
+    "language": "ar",
+    "completionTimeSeconds": 240,
+    "answers": {
+      "q1_age": "25-34",
+      "q2_wilaya": "16",
+      "q3_residence_nature": "urban",
+      "q4_employment_status": "employee",
+      "q5_purchasing_power": "medium",
+      "q6_bought_used_furniture": "yes",
+      "q7_bought_used_appliance": "yes",
+      "q8_sold_used_items": "yes",
+      "q9_search_channels": [
+        "facebook_marketplace"
+      ],
+      "q10_products_considered": [
+        "living_room_sofas",
+        "refrigerators"
+      ],
+      "q11_primary_motivation": "low_price",
+      "q12_biggest_hesitation": "hidden_defects",
+      "q13_trust_builders": [
+        "video_real_photos",
+        "fair_inspection_label"
+      ],
+      "q14_expected_discount": "40_60",
+      "q15_concept_opinion": "excellent",
+      "q16_willingness_to_use": "definitely",
+      "q17_most_important_service": "verify_condition",
+      "q18_platform_model": "hybrid",
+      "q19_preferred_pickup": "home_delivery",
+      "q20_delivery_provider": "dedicated_furniture_movers",
+      "q21_delivery_fee_acceptance": "yes_reasonable",
+      "q22_acceptable_delivery_time": "24_48_hours",
+      "q23_payment_method": "baridimob",
+      "q24_had_past_problems": "no",
+      "q27_biggest_market_barrier": "lack_of_trust_scams",
+      "q28_fair_price_ratio": "50_percent",
+      "q29_wishlist_services": [
+        "technical_inspection",
+        "disassembly_assembly"
+      ],
+      "q30_seller_interest": "yes",
+      "q31_seller_incentives": [
+        "serious_buyers",
+        "guaranteed_payment"
+      ],
+      "q32_open_suggestion": "منصة ممتازة جداً ونحتاج مثل هذه الخدمات المتخصصة والموثوقة في الجزائر بالتوفيق!"
+    },
+    "wantsBetaAccess": false
+  },
+  {
+    "id": "resp-dz-001",
+    "timestamp": "2026-11-04T10:14:00Z",
+    "language": "ar",
+    "completionTimeSeconds": 280,
+    "answers": {
+      "q1_age": "25-34",
+      "q2_wilaya": "16",
+      "q3_residence_nature": "urban",
+      "q4_employment_status": "employee",
+      "q5_purchasing_power": "medium",
+      "q6_bought_used_furniture": "yes",
+      "q7_bought_used_appliance": "yes",
+      "q8_sold_used_items": "yes",
+      "q9_search_channels": [
+        "facebook_marketplace",
+        "ouedkniss"
+      ],
+      "q10_products_considered": [
+        "refrigerators",
+        "washing_machines",
+        "living_room_sofas"
+      ],
+      "q11_primary_motivation": "low_price",
+      "q12_biggest_hesitation": "hidden_defects",
+      "q13_trust_builders": [
+        "video_real_photos",
+        "inspection_before_pay",
+        "limited_warranty"
+      ],
+      "q14_expected_discount": "40_60",
+      "q15_concept_opinion": "excellent",
+      "q16_willingness_to_use": "definitely",
+      "q17_most_important_service": "verify_condition",
+      "q18_platform_model": "hybrid",
+      "q19_preferred_pickup": "home_delivery",
+      "q20_delivery_provider": "dedicated_furniture_movers",
+      "q21_delivery_fee_acceptance": "yes_reasonable",
+      "q22_acceptable_delivery_time": "24_48_hours",
+      "q23_payment_method": "cash_on_delivery",
+      "q24_had_past_problems": "yes",
+      "q25_problem_type": [
+        "hidden_technical_defects",
+        "transport_breakage"
+      ],
+      "q26_ideal_problem_solution": "لو كان هناك فحص تقني مسبق للموتور وتوصيل مخصص للأجهزة الكبيرة عبر فورغون مجهز.",
+      "q27_biggest_market_barrier": "lack_of_trust_scams",
+      "q28_one_thing_to_change": "إلزام البائع بتقديم ضمان تجربة لمدة أسبوع وحظر الحسابات الوهمية.",
+      "q29_wishlist_services": [
+        "technical_inspection",
+        "furniture_assembly_transport",
+        "working_warranty"
+      ],
+      "q30_seller_interest": "yes",
+      "q31_seller_incentives": [
+        "home_pickup_for_seller",
+        "serious_buyers",
+        "guaranteed_payment"
+      ],
+      "q32_open_suggestion": "التطبيق يحتاج شراكة مع حرفيين معتمدين لفحص الثلاجات والغسالات قبل تسليمها."
+    },
+    "contactEmail": "amine.k@example.dz",
+    "wantsBetaAccess": true
+  }
+]
